@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2520" viewBox="0 0 1600 2520" role="img" aria-labelledby="title desc">
+<title id="title">Подготовка и сдача работы в Moodle</title>
+<desc id="desc">Схема: курс, требования, форум, черновик, выбор вложений, отмена или ожидаемая публикация с повтором при ошибке.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<text x="800.0" y="45" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="43" font-weight="bold" fill="#17324d">Подготовка и сдача работы в Moodle</text>
+<text x="800.0" y="102" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Фактический путь до отмены; публикация — ожидаемые этапы</text>
+<rect x="100" y="143" width="360" height="47" rx="10" fill="#eaf2ff" stroke="#3167b2" stroke-width="2"/>
+<text x="280" y="165" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Подготовка</text>
+<rect x="540" y="143" width="360" height="47" rx="10" fill="#e4f4eb" stroke="#2b8056" stroke-width="2"/>
+<text x="720" y="165" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Отмена и возврат</text>
+<rect x="1040" y="143" width="360" height="47" rx="10" fill="#fff1df" stroke="#bc7018" stroke-width="2"/>
+<text x="1220" y="165" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Ожидаемые действия</text>
+<polyline points="600,300 600,330" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="600,330 592.1706203859978,313.7919521576518 607.8293796140022,313.7919521576518" fill="#65778c"/>
+<polyline points="600,410 600,435" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="600,435 592.1706203859978,418.7919521576518 607.8293796140022,418.7919521576518" fill="#65778c"/>
+<polyline points="600,525 600,560" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="600,560 592.1706203859978,543.7919521576518 607.8293796140022,543.7919521576518" fill="#65778c"/>
+<polyline points="600,640 600,675" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="600,675 592.1706203859978,658.7919521576518 607.8293796140022,658.7919521576518" fill="#65778c"/>
+<polyline points="600,765 600,815" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="600,815 592.1706203859978,798.7919521576518 607.8293796140022,798.7919521576518" fill="#65778c"/>
+<polyline points="785,880 1120,880 1120,955" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="1120,955 1112.1706203859978,938.7919521576518 1127.8293796140022,938.7919521576518" fill="#65778c"/>
+<rect x="913.578125" y="842" width="52.84375" height="35" fill="white"/>
+<text x="940" y="859" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Да</text>
+<polyline points="600,945 600,1160" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="600,1160 592.1706203859978,1143.7919521576518 607.8293796140022,1143.7919521576518" fill="#65778c"/>
+<rect x="606.6328125" y="988" width="66.734375" height="35" fill="white"/>
+<text x="640" y="1005" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Нет</text>
+<polyline points="1120,1075 1120,1200 930,1200" fill="none" stroke="#65778c" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="930,1200 946.2080478423482,1192.1706203859978 946.2080478423482,1207.8293796140022" fill="#65778c"/>
+<rect x="1013.1171875" y="1116" width="273.765625" height="35" fill="white"/>
+<text x="1150" y="1133" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Прикрепить файлы</text>
+<polyline points="600,1240 600,1305" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="600,1305 592.1706203859978,1288.7919521576518 607.8293796140022,1288.7919521576518" fill="#65778c"/>
+<polyline points="400,1380 70,1380 70,720 270,720" fill="none" stroke="#65778c" stroke-width="4"/>
+<polygon points="270,720 253.79195215765182,727.8293796140022 253.79195215765182,712.1706203859978" fill="#65778c"/>
+<rect x="102.8671875" y="1321" width="158.265625" height="35" fill="white"/>
+<text x="182" y="1338" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Исправить</text>
+<polyline points="500,1417 210,1470 210,1545" fill="none" stroke="#2b8056" stroke-width="4"/>
+<polygon points="210,1545 202.17062038599786,1528.7919521576518 217.82937961400214,1528.7919521576518" fill="#2b8056"/>
+<rect x="222.8203125" y="1438" width="148.359375" height="35" fill="white"/>
+<text x="297" y="1455" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Отменить</text>
+<polyline points="700,1417 1100,1470 1100,1550" fill="none" stroke="#bc7018" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="1100,1550 1092.1706203859978,1533.7919521576518 1107.8293796140022,1533.7919521576518" fill="#bc7018"/>
+<rect x="896.8984375" y="1413" width="206.203125" height="35" fill="white"/>
+<text x="1000" y="1430" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Опубликовать</text>
+<polyline points="1100,1650 1100,1707" fill="none" stroke="#bc7018" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="1100,1707 1092.1706203859978,1690.7919521576518 1107.8293796140022,1690.7919521576518" fill="#bc7018"/>
+<polyline points="1005,1815 810,1880 810,1982" fill="none" stroke="#bc7018" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="810,1982 802.1706203859978,1965.7919521576518 817.8293796140022,1965.7919521576518" fill="#bc7018"/>
+<rect x="840.578125" y="1843" width="52.84375" height="35" fill="white"/>
+<text x="867" y="1860" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Да</text>
+<polyline points="1195,1815 1290,1880 1290,1982" fill="none" stroke="#bc7018" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="1290,1982 1282.1706203859978,1965.7919521576518 1297.8293796140022,1965.7919521576518" fill="#bc7018"/>
+<rect x="1243.6328125" y="1843" width="66.734375" height="35" fill="white"/>
+<text x="1277" y="1860" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Нет</text>
+<polyline points="1510,2035 1560,2035 1560,720 930,720" fill="none" stroke="#bc7018" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="930,720 946.2080478423482,712.1706203859978 946.2080478423482,727.8293796140022" fill="#bc7018"/>
+<polyline points="810,2087 810,2230 600,2230 600,2315" fill="none" stroke="#bc7018" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="600,2315 592.1706203859978,2298.791952157652 607.8293796140022,2298.791952157652" fill="#bc7018"/>
+<polyline points="210,1655 210,2360 270,2360" fill="none" stroke="#2b8056" stroke-width="4"/>
+<polygon points="270,2360 253.79195215765182,2367.829379614002 253.79195215765182,2352.170620385998" fill="#2b8056"/>
+<rect x="270.0" y="220.0" width="660" height="80" rx="18" fill="#eaf2ff" stroke="#3167b2" stroke-width="3"/>
+<text x="600" y="260" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Открыть курс</text>
+<rect x="270.0" y="330.0" width="660" height="80" rx="18" fill="#eaf2ff" stroke="#3167b2" stroke-width="3"/>
+<text x="600" y="370" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Прочитать требования</text>
+<rect x="270.0" y="435.0" width="660" height="90" rx="18" fill="#eaf2ff" stroke="#3167b2" stroke-width="3"/>
+<text x="600" y="460" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Открыть форум</text>
+<text x="600" y="500" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">в разделе «Результаты»</text>
+<rect x="270.0" y="560.0" width="660" height="80" rx="18" fill="#eaf2ff" stroke="#3167b2" stroke-width="3"/>
+<text x="600" y="600" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Добавить тему для обсуждения</text>
+<rect x="270.0" y="675.0" width="660" height="90" rx="18" fill="#eaf2ff" stroke="#3167b2" stroke-width="3"/>
+<text x="600" y="720" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Заполнить тему и сообщение</text>
+<polygon points="600,815.0 785.0,880 600,945.0 415.0,880" fill="#f5f7fa" stroke="#65778c" stroke-width="3"/>
+<text x="600" y="860" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Нужно</text>
+<text x="600" y="900" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">вложение?</text>
+<rect x="870.0" y="955.0" width="500" height="120" rx="18" fill="#eaf2ff" stroke="#3167b2" stroke-width="3"/>
+<text x="1120" y="995" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Расширенная форма:</text>
+<text x="1120" y="1035" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">блок «Вложение»</text>
+<rect x="270.0" y="1160.0" width="660" height="80" rx="18" fill="#eaf2ff" stroke="#3167b2" stroke-width="3"/>
+<text x="600" y="1200" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Проверить черновик</text>
+<polygon points="600,1305.0 800.0,1380 600,1455.0 400.0,1380" fill="#f5f7fa" stroke="#65778c" stroke-width="3"/>
+<text x="600" y="1360" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Что делать</text>
+<text x="600" y="1400" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">дальше?</text>
+<rect x="30.0" y="1545.0" width="360" height="110" rx="18" fill="#e4f4eb" stroke="#2b8056" stroke-width="3"/>
+<text x="210" y="1580" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Отмена:</text>
+<text x="210" y="1620" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">вернуться в форум</text>
+<rect x="870.0" y="1550.0" width="460" height="100" rx="18" fill="#fff1df" stroke="#bc7018" stroke-width="3"/>
+<text x="1100" y="1600" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Отправить в форум</text>
+<polygon points="1100,1707.5 1295.0,1780 1100,1852.5 905.0,1780" fill="#fff1df" stroke="#bc7018" stroke-width="3"/>
+<text x="1100" y="1760" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Публикация</text>
+<text x="1100" y="1800" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">успешна?</text>
+<rect x="590.0" y="1982.5" width="440" height="105" rx="18" fill="#fff1df" stroke="#bc7018" stroke-width="3"/>
+<text x="810" y="2015" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Проверить</text>
+<text x="810" y="2055" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">опубликованную тему</text>
+<rect x="1070.0" y="1982.5" width="440" height="105" rx="18" fill="#fff1df" stroke="#bc7018" stroke-width="3"/>
+<text x="1290" y="2015" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Исправить данные</text>
+<text x="1290" y="2055" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">или повторить</text>
+<rect x="270.0" y="2315.0" width="660" height="90" rx="18" fill="#e4f4eb" stroke="#2b8056" stroke-width="3"/>
+<text x="600" y="2360" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="30" font-weight="normal" fill="#17324d">Вернуться в курс</text>
+<text x="800" y="2480" text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="normal" fill="#17324d">Пунктир: загрузка файлов, отправка и результат публикации не проверялись.</text>
+</svg>

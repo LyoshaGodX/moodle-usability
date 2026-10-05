@@ -1,0 +1,88 @@
+{
+  "screenshots": [
+    {
+      "path": "01-usability/images/01-course-materials.jpg",
+      "date": "2026-10-05",
+      "source_url": "https://moodle.herzen.spb.ru/course/view.php?id=26648",
+      "source_kind": "live_moodle_browser_capture",
+      "dimensions_pixels": [
+        1348,
+        926
+      ],
+      "sha256": "db27b655c15f0fbc1d7fb005ab1b06acf0a70c848e449eee05dbe96964cae2ff",
+      "note": "Снимок видимого учебного интерфейса; часть кадров ограничена областью содержимого. Для расширенной формы источник — вход через форум."
+    },
+    {
+      "path": "01-usability/images/02-assignment-page.jpg",
+      "date": "2026-10-05",
+      "source_url": "https://moodle.herzen.spb.ru/mod/page/view.php?id=780596",
+      "source_kind": "live_moodle_browser_capture",
+      "dimensions_pixels": [
+        900,
+        420
+      ],
+      "sha256": "28639d4e46f6b204985b9614a0e501696e2972d7a059fea75e00df5a0a970a2d",
+      "note": "Снимок видимого учебного интерфейса; часть кадров ограничена областью содержимого. Для расширенной формы источник — вход через форум."
+    },
+    {
+      "path": "01-usability/images/03-forum-empty.jpg",
+      "date": "2026-10-05",
+      "source_url": "https://moodle.herzen.spb.ru/mod/forum/view.php?id=1353655",
+      "source_kind": "live_moodle_browser_capture",
+      "dimensions_pixels": [
+        910,
+        500
+      ],
+      "sha256": "5674aaf529485607c280fca89f159cf3fc821106fe54efb93d75140fa99706c4",
+      "note": "Снимок видимого учебного интерфейса; часть кадров ограничена областью содержимого. Для расширенной формы источник — вход через форум."
+    },
+    {
+      "path": "01-usability/images/04-forum-draft.jpg",
+      "date": "2026-10-05",
+      "source_url": "https://moodle.herzen.spb.ru/mod/forum/view.php?id=1353655",
+      "source_kind": "live_moodle_browser_capture",
+      "dimensions_pixels": [
+        910,
+        885
+      ],
+      "sha256": "63de1d2f816729847f2d0c872d67e28c514c8615139b1e19438d4557a2bed15b",
+      "note": "Снимок видимого учебного интерфейса; часть кадров ограничена областью содержимого. Для расширенной формы источник — вход через форум."
+    },
+    {
+      "path": "02-sus/images/01-sus-materials.jpg",
+      "date": "2026-10-05",
+      "source_url": "https://moodle.herzen.spb.ru/course/view.php?id=26648",
+      "source_kind": "live_moodle_browser_capture",
+      "dimensions_pixels": [
+        1348,
+        926
+      ],
+      "sha256": "e4df915a54970a2b3bf5ec12d6df48877ead0f3bae6eda37995deac3734a4b95",
+      "note": "Снимок видимого учебного интерфейса; часть кадров ограничена областью содержимого. Для расширенной формы источник — вход через форум."
+    },
+    {
+      "path": "03-process-analysis/images/01-results-section.jpg",
+      "date": "2026-10-05",
+      "source_url": "https://moodle.herzen.spb.ru/course/view.php?id=26648",
+      "source_kind": "live_moodle_browser_capture",
+      "dimensions_pixels": [
+        610,
+        380
+      ],
+      "sha256": "f37bcf2740c1280e0ed7cd5d83739a233e8f480ab6a8586d26525b3e046b66ea",
+      "note": "Снимок видимого учебного интерфейса; часть кадров ограничена областью содержимого. Для расширенной формы источник — вход через форум."
+    },
+    {
+      "path": "03-process-analysis/images/02-advanced-form.jpg",
+      "date": "2026-10-05",
+      "source_url": "https://moodle.herzen.spb.ru/mod/forum/view.php?id=1353655",
+      "source_kind": "live_moodle_browser_capture",
+      "dimensions_pixels": [
+        910,
+        1410
+      ],
+      "sha256": "983906d9f7d0030a223059bf0dedebf3a971f5c90550336f23045416f3981353",
+      "note": "Снимок видимого учебного интерфейса; часть кадров ограничена областью содержимого. Для расширенной формы источник — вход через форум."
+    }
+  ]
+}

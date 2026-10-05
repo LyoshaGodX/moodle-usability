@@ -1,0 +1,45 @@
+{
+  "data_kind": "observed",
+  "date": "2026-10-05",
+  "method": "Expert browser walkthrough, no participants, no timing measurements",
+  "publication_performed": false,
+  "file_upload_performed": false,
+  "observations": [
+    {
+      "id": "O01",
+      "action": "Открыты курс и материалы темы 3",
+      "result": "Доступны ресурсы юзабилити и SUS",
+      "kind": "observed"
+    },
+    {
+      "id": "O02",
+      "action": "Открыта страница ресурса 780596",
+      "result": "Определение юзабилити; нет текста трёх задач",
+      "kind": "observed"
+    },
+    {
+      "id": "O03",
+      "action": "В разделе Результаты открыт форум 1353655",
+      "result": "Нет тем для обсуждения; доступно создание темы",
+      "kind": "observed"
+    },
+    {
+      "id": "O04",
+      "action": "Открыта быстрая форма и введён учебный текст",
+      "result": "Поля Тема и Сообщение заполнены; отправки не было",
+      "kind": "observed"
+    },
+    {
+      "id": "O05",
+      "action": "Выбран расширенный режим",
+      "result": "Текст сохранился; вложения до 9 файлов, по 500 Кбайт",
+      "kind": "observed"
+    },
+    {
+      "id": "O06",
+      "action": "Нажата Отмена, выполнен возврат в курс и повторно открыт форум",
+      "result": "Новых тем нет; форум показывает пустое состояние",
+      "kind": "observed"
+    }
+  ]
+}

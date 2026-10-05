@@ -1,0 +1,100 @@
+{
+  "data_kind": "model",
+  "notice": "Вымышленные ответы пяти условных участников для демонстрации расчёта SUS.",
+  "object": "Moodle: поиск материалов курса и подготовка темы в форуме сдачи работ",
+  "date": "2026-10-05",
+  "participants": [
+    {
+      "participant_id": "P01",
+      "contributions": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "sum": 12,
+      "sus": 30.0
+    },
+    {
+      "participant_id": "P02",
+      "contributions": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2
+      ],
+      "sum": 21,
+      "sus": 52.5
+    },
+    {
+      "participant_id": "P03",
+      "contributions": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "sum": 28,
+      "sus": 70.0
+    },
+    {
+      "participant_id": "P04",
+      "contributions": [
+        3,
+        3,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "sum": 32,
+      "sus": 80.0
+    },
+    {
+      "participant_id": "P05",
+      "contributions": [
+        3,
+        3,
+        3,
+        4,
+        3,
+        3,
+        4,
+        3,
+        3,
+        3
+      ],
+      "sum": 32,
+      "sus": 80.0
+    }
+  ],
+  "count": 5,
+  "mean": 62.5,
+  "median": 70.0,
+  "minimum": 30.0,
+  "maximum": 80.0,
+  "range": 50.0,
+  "score_is_percentage": false
+}

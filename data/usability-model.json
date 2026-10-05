@@ -1,0 +1,261 @@
+{
+  "data_kind": "model",
+  "notice": "Вымышленные учебные данные. Реальные участники не привлекались. Время и ошибки не измерялись.",
+  "date": "2026-10-05",
+  "participants": [
+    {
+      "id": "P01",
+      "profile": "Студент, впервые выполняющий работу в Moodle"
+    },
+    {
+      "id": "P02",
+      "profile": "Студент, использующий Moodle эпизодически"
+    },
+    {
+      "id": "P03",
+      "profile": "Студент, регулярно читающий материалы курса"
+    },
+    {
+      "id": "P04",
+      "profile": "Студент, имеющий опыт сдачи работ через форумы"
+    },
+    {
+      "id": "P05",
+      "profile": "Студент, помогающий одногруппникам пользоваться Moodle"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "title": "Найти общие требования к оформлению отчёта",
+      "limit_seconds": 180
+    },
+    {
+      "id": "T2",
+      "title": "Найти ресурс SUS и ссылку на описание шкалы",
+      "limit_seconds": 180
+    },
+    {
+      "id": "T3",
+      "title": "Найти форум сдачи работ за 2026–2027 учебный год",
+      "limit_seconds": 180
+    },
+    {
+      "id": "T4",
+      "title": "Подготовить тему и найти загрузку вложений, без отправки",
+      "limit_seconds": 240
+    },
+    {
+      "id": "T5",
+      "title": "Вернуться из форума на страницу курса",
+      "limit_seconds": 60
+    }
+  ],
+  "trials": [
+    {
+      "participant_id": "P01",
+      "task_id": "T1",
+      "seconds": 170,
+      "status": "assisted",
+      "navigation_errors": 2,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P01",
+      "task_id": "T2",
+      "seconds": 180,
+      "status": "failed",
+      "navigation_errors": 3,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P01",
+      "task_id": "T3",
+      "seconds": 180,
+      "status": "failed",
+      "navigation_errors": 2,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P01",
+      "task_id": "T4",
+      "seconds": 240,
+      "status": "failed",
+      "navigation_errors": 1,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P01",
+      "task_id": "T5",
+      "seconds": 20,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P02",
+      "task_id": "T1",
+      "seconds": 130,
+      "status": "assisted",
+      "navigation_errors": 1,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P02",
+      "task_id": "T2",
+      "seconds": 60,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P02",
+      "task_id": "T3",
+      "seconds": 125,
+      "status": "assisted",
+      "navigation_errors": 2,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P02",
+      "task_id": "T4",
+      "seconds": 240,
+      "status": "failed",
+      "navigation_errors": 2,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P02",
+      "task_id": "T5",
+      "seconds": 18,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P03",
+      "task_id": "T1",
+      "seconds": 75,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P03",
+      "task_id": "T2",
+      "seconds": 45,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P03",
+      "task_id": "T3",
+      "seconds": 85,
+      "status": "success",
+      "navigation_errors": 1,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P03",
+      "task_id": "T4",
+      "seconds": 165,
+      "status": "success",
+      "navigation_errors": 1,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P03",
+      "task_id": "T5",
+      "seconds": 16,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P04",
+      "task_id": "T1",
+      "seconds": 55,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P04",
+      "task_id": "T2",
+      "seconds": 35,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P04",
+      "task_id": "T3",
+      "seconds": 65,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P04",
+      "task_id": "T4",
+      "seconds": 130,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P04",
+      "task_id": "T5",
+      "seconds": 15,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P05",
+      "task_id": "T1",
+      "seconds": 60,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P05",
+      "task_id": "T2",
+      "seconds": 40,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P05",
+      "task_id": "T3",
+      "seconds": 70,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P05",
+      "task_id": "T4",
+      "seconds": 140,
+      "status": "success",
+      "navigation_errors": 1,
+      "data_kind": "model"
+    },
+    {
+      "participant_id": "P05",
+      "task_id": "T5",
+      "seconds": 17,
+      "status": "success",
+      "navigation_errors": 0,
+      "data_kind": "model"
+    }
+  ],
+  "status_definitions": {
+    "success": "Завершено самостоятельно до истечения лимита",
+    "assisted": "Завершено с одной подсказкой модератора до истечения лимита",
+    "failed": "Не завершено к лимиту; seconds равно лимиту"
+  }
+}

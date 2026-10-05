@@ -1,0 +1,71 @@
+{
+  "data_kind": "model",
+  "notice": "Вымышленные учебные данные. Реальные участники не привлекались. Время и ошибки не измерялись.",
+  "date": "2026-10-05",
+  "attempts": 25,
+  "counts": {
+    "success": 18,
+    "assisted": 3,
+    "failed": 4
+  },
+  "percentages": {
+    "success": 72.0,
+    "assisted": 12.0,
+    "failed": 16.0
+  },
+  "completed_including_assistance": 21,
+  "completion_including_assistance_percent": 84.0,
+  "navigation_errors": 16,
+  "per_task": [
+    {
+      "task_id": "T1",
+      "count": 5,
+      "success": 3,
+      "assisted": 2,
+      "failed": 0,
+      "mean_attempt_seconds": 98,
+      "mean_independent_seconds": 63.333333333333336,
+      "navigation_errors": 3
+    },
+    {
+      "task_id": "T2",
+      "count": 5,
+      "success": 4,
+      "assisted": 0,
+      "failed": 1,
+      "mean_attempt_seconds": 72,
+      "mean_independent_seconds": 45,
+      "navigation_errors": 3
+    },
+    {
+      "task_id": "T3",
+      "count": 5,
+      "success": 3,
+      "assisted": 1,
+      "failed": 1,
+      "mean_attempt_seconds": 105,
+      "mean_independent_seconds": 73.33333333333333,
+      "navigation_errors": 5
+    },
+    {
+      "task_id": "T4",
+      "count": 5,
+      "success": 3,
+      "assisted": 0,
+      "failed": 2,
+      "mean_attempt_seconds": 183,
+      "mean_independent_seconds": 145,
+      "navigation_errors": 5
+    },
+    {
+      "task_id": "T5",
+      "count": 5,
+      "success": 5,
+      "assisted": 0,
+      "failed": 0,
+      "mean_attempt_seconds": 17.2,
+      "mean_independent_seconds": 17.2,
+      "navigation_errors": 0
+    }
+  ]
+}

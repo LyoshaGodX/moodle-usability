@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "filename": "Курс_ Управление IT-проектами для корпоративного обучения.htm",
+      "sha256": "1ba8ce23dc2cb32369459d4d4e92f107bcb22c4255df06124941b0f1dd3edadf",
+      "included_in_archive": false
+    },
+    {
+      "filename": "Для загрузки результатов самостоятельной работы 2026-2027 уч.г.htm",
+      "sha256": "33d806124e1ebaf686d81758e8ea040819460b09ac6695072f3be6995d834dbd",
+      "included_in_archive": false
+    }
+  ],
+  "live_date": "2026-10-05",
+  "live_course_url": "https://moodle.herzen.spb.ru/course/view.php?id=26648",
+  "live_forum_url": "https://moodle.herzen.spb.ru/mod/forum/view.php?id=1353655"
+}
